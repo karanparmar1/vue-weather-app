@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.showUnused": true,
+  "editor.comments.insertSpace": true,
+  "prettier.semi": true,
+  "prettier.trailingComma": "es5",
+  "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+  "javascript.suggest.autoImports": true,
+  "files.insertFinalNewline": true,
+}
